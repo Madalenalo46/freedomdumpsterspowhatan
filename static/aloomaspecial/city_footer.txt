@@ -1,0 +1,51 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How do I rent a dumpster in an emergency?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Just call us. We prioritize urgent needs and can often arrange for same day dumpster rental. We’ll ask a few quick questions about your situation to recommend the right size and get a truck on the way.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long can I keep the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental period is flexible. We understand that emergency cleanups can be unpredictable, so we will work with you on a timeline that gives you enough time to complete your work without pressure.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens when the dumpster is full?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Simply give us a call, and we will schedule a prompt pickup. If you fill it up and still have more to go, we can swap it out with an empty container to keep your project moving.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long is the standard rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our typical rental period is 7-10 days, but we offer a great deal of flexibility. We understand that challenging cleanouts can take time, and we are happy to work with you on a schedule that fits your needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much weight can I put in a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The weight varies by the type of debris. General household junk is relatively light, while construction debris like concrete or roofing shingles is very heavy. Tell us about your project, and we can give you a good estimate.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s the safest way to load a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Always wear gloves and sturdy shoes. Use the rear door to walk in heavy items instead of lifting them over the side. Load with a partner, and never stand on the edge of the dumpster walls.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
